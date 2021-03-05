@@ -2,7 +2,9 @@ DATA QUESTION 3: Analysis of Earthquakes from Historical Data
 
 Goals for the project:
 1) Extract historical earthquake data using webscraping and load the data
+
 2) Preprocess data for data analysis
+
 3) Explanatory data analysis
 
 Tools Used:
